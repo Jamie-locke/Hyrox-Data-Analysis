@@ -1,0 +1,12 @@
+name: Hyrox_analysis
+title: Hyrox_analysis
+username: jamie-locke
+account: jamie-locke
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13836994
+bundleId: 9713833
+url: https://jamie-locke.shinyapps.io/Hyrox_analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
